@@ -1,4 +1,7 @@
 # Feature Engineering Made Easy
+
+特征工程入门与实践
+
 This is the code repository for [Feature Engineering Made Easy](https://www.packtpub.com/big-data-and-business-intelligence/feature-engineering-made-easy?utm_source=github&utm_medium=repository&utm_campaign=9781787287600), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Feature engineering is the most important step in creating powerful machine learning systems. This book will take you through the entire feature-engineering journey to make your machine learning much more systematic and effective.
